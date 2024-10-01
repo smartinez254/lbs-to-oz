@@ -4,6 +4,7 @@ function getOz(massInLbs) {
   // TODO: Implement this function.
   const result = -1;
   return result;
+  getOz(26);
 }
 
 // DO NOT CHANGE ANYTHING BELOW THIS LINE.
